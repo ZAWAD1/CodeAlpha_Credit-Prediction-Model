@@ -12,8 +12,7 @@ A machine learning pipeline that predicts whether a borrower will experience ser
 ```
 credit-scoring/
 ├── credit_dashboard.py           # Streamlit web app
-├── notebooks/
-│   └── credit_scoring.ipynb      # Full EDA + model training
+├── credit_scoring.ipynb          # Full EDA + model training
 ├── Model/
 │   └── credit_scoring_model.pkl  # Saved XGBoost model
 ├── data/
