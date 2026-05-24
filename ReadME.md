@@ -109,6 +109,6 @@ Opens at `http://localhost:8501`
 
 ## Making a Prediction
 
-For making prediction the program uses the credit_dashboard.py as an streamlit app. 
+-**Run the credit_dashboard.py to predict
 
 ```
