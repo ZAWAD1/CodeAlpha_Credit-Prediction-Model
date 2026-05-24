@@ -86,7 +86,7 @@ pip install pandas numpy scikit-learn xgboost streamlit joblib matplotlib seabor
 
 ### 2. Train the model
 ```bash
-jupyter notebook notebooks/credit_scoring.ipynb
+jupyter notebook credit_scoring.ipynb
 ```
 Run all cells top to bottom. Model saves to `Model/credit_scoring_model.pkl`.
 
