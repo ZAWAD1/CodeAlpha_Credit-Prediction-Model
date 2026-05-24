@@ -1,9 +1,4 @@
 # 💳 Credit Scoring Model
-
-> Machine learning pipeline predicting credit default risk from financial history using XGBoost, achieving 0.85 ROC-AUC on 150,000 borrowers.
-
----
-
 ## About
 
 A machine learning pipeline that predicts whether a borrower will experience serious financial distress within two years. Trained on 150,000 real borrower records from the Give Me Some Credit dataset (Kaggle). Achieves ROC-AUC of 0.85+ using XGBoost with a Streamlit dashboard for live predictions.
