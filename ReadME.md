@@ -109,5 +109,5 @@ Opens at `http://localhost:8501`
 
 ## Making a Prediction
 
--**Run the credit_dashboard.py to predict
+- **Run the credit_dashboard.py to predict**
 ---
